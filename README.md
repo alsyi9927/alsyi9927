@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=65A5C8&height=300&section=header&text=Minseok's%20GITHUB&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=AFC5D8&height=300&section=header&text=Minseok's%20GITHUB&fontSize=70)
 <div align=center><H1>고민하는 개발자 이민석입니다.</H1>
 현재 명지대학교 정보통신공학과에 재학중이고, 백엔드와 데이터 분석에 관심 있습니다. 열려 있는 자세로 뭐든 배우겠습니다. </div>
 
