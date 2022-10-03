@@ -19,4 +19,4 @@
   <br>
   </div>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
+![minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsyi9927&show_icons=true&theme=radical)
